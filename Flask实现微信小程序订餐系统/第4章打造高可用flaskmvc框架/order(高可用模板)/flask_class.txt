@@ -1,0 +1,20 @@
+import traceback
+# https://docs.python.org/3/library/traceback.html
+
+from flask import Flask
+https://dormousehole.readthedocs.io/en/latest/
+
+from flask_sqlalchemy import SQLAlchemy
+# http://www.pythondoc.com/flask-sqlalchemy/quickstart.html
+
+import pymysql
+pymysql.install_as_MySQLdb()
+
+import flask_script
+# https://flask-script.readthedocs.io/en/latest/
+
+Jinja模板引擎
+https://jinja.palletsprojects.com/en/2.11.x/
+
+werkzeug    WSGI套件
+https://werkzeug.palletsprojects.com/en/1.0.x/

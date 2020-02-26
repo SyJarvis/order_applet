@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f343ea93-ca09-4b1a-9953-5ec0c3b84b4a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>render_template</find>
+      <find>ops_render</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>ops_render</replace>
+      <replace>render_template</replace>
+    </replaceStrings>
+  </component>
+  <component name="ProjectId" id="1XTDpvLwnaw92cEY8ARLaLqflid" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/static/js/account" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web/static/js/account" />
+      <recent name="C:\Users\jarvis\Desktop\order\web\templates\common" />
+      <recent name="C:\Users\jarvis\Desktop\order\web" />
+      <recent name="C:\Users\jarvis\Desktop\order\common\libs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/common/libs" />
+      <recent name="C:\Users\jarvis\Desktop\order\web\templates\common" />
+      <recent name="C:\Users\jarvis\Desktop\order\web\controllers\user" />
+      <recent name="C:\Users\jarvis\Desktop\order\config" />
+      <recent name="C:\Users\jarvis\Desktop\order\web\controllers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f343ea93-ca09-4b1a-9953-5ec0c3b84b4a" name="Default Changelist" comment="" />
+      <created>1580797521622</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580797521622</updated>
+      <workItem from="1580797530265" duration="1598000" />
+      <workItem from="1580800761327" duration="6637000" />
+      <workItem from="1580808880597" duration="1858000" />
+      <workItem from="1580816912299" duration="10023000" />
+      <workItem from="1580901999735" duration="11820000" />
+      <workItem from="1580971136700" duration="15274000" />
+      <workItem from="1581061383532" duration="14493000" />
+      <workItem from="1581219670992" duration="11395000" />
+      <workItem from="1581336539258" duration="12824000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
